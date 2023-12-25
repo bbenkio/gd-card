@@ -1,0 +1,80 @@
+#header {
+    color: rgb(23, 22, 22);
+    background-color: green;
+    opacity: 100%;
+    font-weight: bold;
+    font-size: 30px;
+    height: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#final-header {
+    background-color: rgb(36, 185, 36);
+    color: rgb(236, 38, 38);
+    font-weight: bold;
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.align {
+    text-align: center;
+}
+
+#elf-button-1 {
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    border: none;
+    bottom: 80px;
+    left: 100px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#elf-button-2 {
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    bottom: 40px;
+    left: 600px;
+    border: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#elf-button-3 {
+    background-color: transparent;
+    cursor: pointer;
+    position: absolute;
+    bottom: 350px;
+    right: 500px;
+    box-sizing: border-box;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.elf {
+    background-color: transparent;
+    cursor: pointer;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-size: contain;
+}
